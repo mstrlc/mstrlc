@@ -1,6 +1,6 @@
 ### hi there :wave:
 
-my name is Matyáš and I study computer science at BUT FIT in Brno.
+my name is Matyáš and I study software engineering at FI MUNI in Brno.
 
 welcome to my profile!
 
